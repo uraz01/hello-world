@@ -1,2 +1,5 @@
 # hello-world
-learning git
+Hi Everyone!
+
+Nice to have you here in my repository.
+
